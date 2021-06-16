@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @angle-mimi
+- 👀 I’m interested in building an AI assistant (one like *J.A.R.V.I.S.*)
+- 🌱 I’m currently learning coding
